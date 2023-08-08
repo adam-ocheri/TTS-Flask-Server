@@ -936,7 +936,7 @@
                               "Owner": "adam-ocheri",
                               "Repo": "last-one-was-trash",
                               "Branch": "main",
-                              "OAuthToken": "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",
+                              "OAuthToken": "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",
                               "PollForSourceChanges": false
                             },
                             "runOrder": 1
@@ -1037,7 +1037,7 @@
                           "aws:cdk:cloudformation:props": {
                             "authentication": "GITHUB_HMAC",
                             "authenticationConfiguration": {
-                              "secretToken": "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"
+                              "secretToken": "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"
                             },
                             "filters": [
                               {

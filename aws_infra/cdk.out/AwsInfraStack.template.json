@@ -752,7 +752,7 @@
          "Owner": "adam-ocheri",
          "Repo": "last-one-was-trash",
          "Branch": "main",
-         "OAuthToken": "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",
+         "OAuthToken": "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",
          "PollForSourceChanges": false
         },
         "Name": "GitHub_Source",
@@ -851,7 +851,7 @@
    "Properties": {
     "Authentication": "GITHUB_HMAC",
     "AuthenticationConfiguration": {
-     "SecretToken": "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"
+     "SecretToken": "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"
     },
     "Filters": [
      {
